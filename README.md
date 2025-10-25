@@ -1,2 +1,3 @@
-# test---commit
-Initial repo to get 1 commit for Base build check
+# Test Commit Updated
+
+This is an updated commit to verify the Base build requirement.
